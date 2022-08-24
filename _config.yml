@@ -1,12 +1,1 @@
-# Setup
-baseurl:      "README.md"
-paginate:     1
-locale:       "en"
-
-
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
 markdown: kramdown
